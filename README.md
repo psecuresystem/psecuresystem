@@ -23,7 +23,7 @@ How to reach me: visiondaniels32@gmail.com.
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=psecuresystem&langs_count=5&theme=tokyonight)]()
   
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[psecuresystem&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psecuresystem&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
     
   
   
