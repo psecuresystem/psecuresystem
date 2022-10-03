@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Profile
 
@@ -11,7 +11,7 @@ Currently Building My Startup Credily.
 
 How to reach me: visiondaniels32@gmail.com.
 
-# Fun Fact
+### Fun Fact
 
 I love puppies but dislike grown dogs.
 
