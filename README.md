@@ -21,16 +21,12 @@ How to reach me: visiondaniels32@gmail.com.
  
     
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=psecuresystem&langs_count=5&theme=tokyonight)]()
-  
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psecuresystem&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
     
-  
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=psecuresystem&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
  
- ![Visitor Count](https://profile-counter.glitch.me/LikemDzokoto/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/psecuresystem/count.svg)
 
 <!--
 **psecuresystem/psecuresystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
