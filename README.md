@@ -1,4 +1,4 @@
-# Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;+I'm+Vision;+I'm++a+Blockchain+,+FullStack+,+Robotics+Engineer;I'm+obsessed+about+writing+Productive+Code;I'm+interested+in+Machine+Learning%E2%9C%A8;I'm+looking+to+collaborate+on+any;project)](https://git.io/typing-svg)
 
 ## Profile
 
@@ -18,9 +18,6 @@ How to reach me: visiondaniels32@gmail.com.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psecuresystem&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/psecuresystem/psecuresystem)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;+I'm+Likem;+I'm++a+Blockchain+and+Backend+Developer;I'm+obsessed+about+writing+Clean+Code;I'm+interested+in+Machine+Learning%E2%9C%A8;I'm+looking+to+collaborate+on+any;Blockchain;or;Backend+project)](https://git.io/typing-svg)
-
  
     
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=psecuresystem&langs_count=5&theme=tokyonight)]()
