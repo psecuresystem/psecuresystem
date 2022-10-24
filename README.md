@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;+I'm+Vision;+I'm++a+Blockchain+,+FullStack+,+Robotics+Engineer;I'm+obsessed+about+writing+Productive+Code;I'm+interested+in+Machine+Learning%E2%9C%A8;I'm+looking+to+collaborate+on+any;project)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;+I'm+Vision;+I'm++a+Blockchain+,+FullStack+,+Robotics+Engineer;I'm+love+writing+Clean+Code;I'm+interested+in+Machine+Learning%E2%9C%A8;I'm+looking+to+collaborate+on+any;project)](https://git.io/typing-svg)
 
 ## Profile
 
