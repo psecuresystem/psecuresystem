@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/psecuresystem](https://github.com/psecuresystem)
 
-- 📝 I regularly write articles on [visiondaniels32.hashnode.dev](visiondaniels32.hashnode.dev)
+- 📝 I regularly write articles on [Hashnode](https://visiondaniels32.hashnode.dev)
 
 - 💬 Ask me about **Frontend, Backend, AI**
 
